@@ -7,7 +7,7 @@ No,Nama Latin,Nama Umum,Asam Askorbat (mg/g),Total Klorofil,Kadar Ph,Kadar Air,L
 6,Azadirachta indica,Mimba,3.458,39.71,7.1,53.72,Toleran,Tinggi,Hamidia Road Bhopal,0.1152371746,0.946778043,0.7450980392,0.4917127072
 7,Azadirachta indica A. Juss.,Mimba,10.21,7.5,6.3,77,Toleran,Tinggi,Lahartara India,0.3403113437,0.1780429594,0.5882352941,0.7542000226
 8,Bambusa bambos Rotz.,Bambu Durian,7.26,13.6,6.8,66,Toleran,Tinggi,Lahartara India,0.2419747325,0.323627685,0.6862745098,0.630172511
-9,Bougainvillea spectabilis,Bunga Kertas,0.1,2.99,7.1,68.42,Toleran,Rendah,Aizawl India,0.003300110004,0.07040572792,0.7450980392,0.6574585635
+9,Bougainvillea spectabilis,Bugenvil,0.1,2.99,7.1,68.42,Toleran,Rendah,Aizawl India,0.003300110004,0.07040572792,0.7450980392,0.6574585635
 10,Bougainvillea spectabilis Willd.,Bugenvil,12.79,11.7,6.1,74,Toleran,Tinggi,Lahartara India,0.4263142105,0.2782816229,0.5490196078,0.7203743376
 11,Calotropis gigantes Ait. Hort.,Biduri,9,13,6.4,94,Toleran,Tinggi,Lahartara India,0.2999766659,0.3093078759,0.6078431373,0.945878904
 12,Calotropis procera Ait. Hort.,Biduri Merah,8.5,5.27,6.2,96,Toleran,Tinggi,Lahartara India,0.2833094436,0.1248210024,0.568627451,0.9684293607
@@ -73,7 +73,7 @@ No,Nama Latin,Nama Umum,Asam Askorbat (mg/g),Total Klorofil,Kadar Ph,Kadar Air,L
 72,Bauhinia purpurea,Bunga Kupu-kupu,0.001,0.99,6.69,90.02,Moderat,Sedang,Hutan Kota Kampus UI Depok,0,0.02267303103,0.6647058824,0.9010034953
 73,Bauhinia purpurea (Filipina),Bunga Kupu-kupu,7.5,0.36,6.4,83.38,Moderat,Sedang,Butuan City Filipina,0.2499749992,0.007637231504,0.6078431373,0.8261359793
 74,Bougainvillea glabra,Bugenvil,2.985,26.59,7.1,70.48,Moderat,Tinggi,Hamidia Road Bhopal,0.09946998233,0.6336515513,0.7450980392,0.6806855339
-75,Bougainvillea sp.,Bougainvillea,0.62,2.93,6.2,77.2,Moderat,Tinggi,Maitreyi College Delhi,0.02063402113,0.06897374702,0.568627451,0.7564550682
+75,Bougainvillea sp.,Bugenvil,0.62,2.93,6.2,77.2,Moderat,Tinggi,Maitreyi College Delhi,0.02063402113,0.06897374702,0.568627451,0.7564550682
 76,Caesalpinia pulcherrima,Peacock Flower,0.6,5.25,5.6,73.9,Moderat,Tinggi,Maitreyi College Delhi,0.01996733224,0.1243436754,0.4509803922,0.7192468147
 77,Calliandra sp.,Kaliandra,0.6,4.1,5.8,83.8,Moderat,Tinggi,Maitreyi College Delhi,0.01996733224,0.0968973747,0.4901960784,0.8308715751
 78,Carica papaya,Papaya,0.61,3.97,6.5,71.3,Moderat,Tinggi,Maitreyi College Delhi,0.02030067669,0.0937947494,0.6274509804,0.6899312211
@@ -140,7 +140,7 @@ No,Nama Latin,Nama Umum,Asam Askorbat (mg/g),Total Klorofil,Kadar Ph,Kadar Air,L
 139,Bauhinia variegata,Bunga Kupu-kupu,0.6,2.97,6.4,61.8,Intermediet,Tinggi,Maitreyi College Delhi,0.01996733224,0.06992840095,0.6078431373,0.582816552
 140,Bixa orellana,Achiote,0.54,2.95,5.3,68.3,Intermediet,Tinggi,Maitreyi College Delhi,0.01796726558,0.06945107399,0.3921568627,0.6561055361
 141,Bombax ceiba L.,Randu Alas,6.54,6.79,6.2,74,Intermediet,Tinggi,Lahartara India,0.2179739325,0.161097852,0.568627451,0.7203743376
-142,Bougainvillea spectabilis,Bunga Kertas,0.2,1.45,6.84,75.6,Intermediet,Tinggi,Rourkela India,0.006633554452,0.03365155131,0.6941176471,0.7384147029
+142,Bougainvillea spectabilis,Bugenvil,0.2,1.45,6.84,75.6,Intermediet,Tinggi,Rourkela India,0.006633554452,0.03365155131,0.6941176471,0.7384147029
 143,Butea frondosa Roxb.,Kembang Merak,1.92,4.21,6.4,50,Intermediet,Tinggi,Lahartara India,0.06396879896,0.09952267303,0.6078431373,0.4497688578
 144,Callistemon sp.,Bottlebrush,0.61,2.92,5.6,53.3,Intermediet,Tinggi,Maitreyi College Delhi,0.02030067669,0.06873508353,0.4509803922,0.4869771113
 145,Cassia fistula (India),Tengguli,2.658,26.81,6.2,54.17,Intermediet,Tinggi,Hamidia Road Bhopal,0.08856961899,0.638902148,0.568627451,0.4967865599
@@ -176,7 +176,7 @@ No,Nama Latin,Nama Umum,Asam Askorbat (mg/g),Total Klorofil,Kadar Ph,Kadar Air,L
 175,Syzygium myrtifolium,Pucuk Merah,0.00146,0.823,5.34,76.62,Intermediet,Tinggi,Kawasan Industri Pulogadung,0.00001533384446,0.01868735084,0.4,0.7499154358
 176,Tectona grandis,Teak,0.61,2.19,7.1,54,Intermediet,Tinggi,Maitreyi College Delhi,0.02030067669,0.05131264916,0.7450980392,0.4948697711
 177,Washingtonia robusta,Mexican Fan Palm,0.63,2.34,5.9,71.1,Intermediet,Tinggi,Maitreyi College Delhi,0.02096736558,0.05489260143,0.5098039216,0.6876761754
-178,Acacia auriculiformis (Nigeria),Akasia daun kecil,1.87,0.466,7.01,92.8,Sensitif,Tinggi,Nigeria Industri Gas dan Pasar Flora,0.06230207674,0.01016706444,0.7274509804,0.9323486301
+178,Acacia auriculiformis (Nigeria),Akasia Daun Kecil,1.87,0.466,7.01,92.8,Sensitif,Tinggi,Nigeria Industri Gas dan Pasar Flora,0.06230207674,0.01016706444,0.7274509804,0.9323486301
 179,Aegle marmelos,Bael Fruit,0.55,2.74,5.8,14.8,Sensitif,Tinggi,Maitreyi College Delhi,0.01830061002,0.06443914081,0.4901960784,0.05288082084
 180,Aegle marmelos Correa.,Maja Batu,1.92,3.28,6,74,Sensitif,Tinggi,Lahartara India,0.06396879896,0.07732696897,0.5294117647,0.7203743376
 181,Agathis damara,Damar,4,2.12,4.26,61.9,Sensitif,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.04964200477,0.1882352941,0.5839440749
@@ -198,7 +198,7 @@ No,Nama Latin,Nama Umum,Asam Askorbat (mg/g),Total Klorofil,Kadar Ph,Kadar Air,L
 197,Carissa carandus L.,Karandas,0.68,3.5,5.5,35,Sensitif,Tinggi,Lahartara India,0.0226340878,0.08257756563,0.431372549,0.280640433
 198,Chamaedorea sp.,Parlor Palm,0.6,2.65,6.7,47.3,Sensitif,Tinggi,Maitreyi College Delhi,0.01996733224,0.06229116945,0.6666666667,0.4193257413
 199,Chrozophora rottleri A. Juss.,Rumput Krokot,0.31,6.48,5.8,40,Sensitif,Tinggi,Lahartara India,0.01030034334,0.153699284,0.4901960784,0.3370165746
-200,Chrysophyllum albidum,Apel bintang afrika,2.23,0.514,6.1,89.6,Sensitif,Tinggi,Nigeria Industri Gas dan Pasar Flora,0.07430247675,0.01131264916,0.5490196078,0.8962678994
+200,Chrysophyllum albidum,Apel Bintang Afrika,2.23,0.514,6.1,89.6,Sensitif,Tinggi,Nigeria Industri Gas dan Pasar Flora,0.07430247675,0.01131264916,0.5490196078,0.8962678994
 201,Codiaeum variegatum,Puring,2.93,4.75,6,77.6,Sensitif,Tinggi,Surabaya Jl Ahmad Yani Darmo MERR,0.09763658789,0.1124105012,0.5294117647,0.7609651595
 202,Cordyline terminalis,Hanjuang,2,3.86,5.8,72.3,Sensitif,Tinggi,Surabaya Jl Ahmad Yani Darmo MERR,0.06663555452,0.09116945107,0.4901960784,0.7012064494
 203,Crinum asiaticum,Bakung,2.71,1.47,5.22,19.09,Sensitif,Tinggi,Taman Pelangi Surabaya,0.0903030101,0.03412887828,0.3764705882,0.1012515503
