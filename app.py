@@ -358,7 +358,7 @@ if page == "🏠  Beranda":
             <p style="color:#333;"><span class="badge badge-Intermediet">Intermediet</span> &nbsp; Di antara toleran & sensitif</p>
             <p style="color:#333;"><span class="badge badge-Sensitif">Sensitif</span> &nbsp; Rentan terhadap polusi</p>
             <br>
-            <p style="color:#333;"><small>Kategorisasi mengacu pada Liu et al. (1983)</small></p>
+            <p style="color:#333;"><small>Kategorisasi mengacu pada Liu et al. (1991)</small></p>
         </div>
         """, unsafe_allow_html=True)
 
@@ -481,6 +481,9 @@ elif page == "🔍  Prediksi":
     else:
         show_result(row['pred_cart'], row['real_label'], "🟢 CART — Gini Impurity")
 
+    #
+    st.subheader("Data Testing beserta Hasil Prediksi")
+    st.dataframe(test_df, use_container_width=True)
 # ══════════════════════════════════════════════════════════════════════════════
 # PAGE: EVALUASI
 # ══════════════════════════════════════════════════════════════════════════════
@@ -525,13 +528,23 @@ elif page == "📊  Evaluasi Model":
         with c1:
             st.markdown("#### 🔵 ID3")
             report_id3 = classification_report(Y_test, pred_id3, output_dict=True)
-            df_r = pd.DataFrame(report_id3).T.round(2)
-            st.dataframe(df_r, use_container_width=True)
+
+            df_r = pd.DataFrame(report_id3).T
+            df_r.loc["accuracy", "precision"] = np.nan
+            df_r.loc["accuracy", "recall"] = np.nan
+            df_r.loc["accuracy", "support"] = len(Y_test)
+
+            st.dataframe(df_r.round(2))
         with c2:
             st.markdown("#### 🟢 CART")
             report_cart = classification_report(Y_test, pred_cart, output_dict=True)
-            df_r2 = pd.DataFrame(report_cart).T.round(2)
-            st.dataframe(df_r2, use_container_width=True)
+            
+            df_r2 = pd.DataFrame(report_cart).T
+            df_r2.loc["accuracy", "precision"] = np.nan
+            df_r2.loc["accuracy", "recall"] = np.nan
+            df_r2.loc["accuracy", "support"] = len(Y_test)
+
+            st.dataframe(df_r2.round(2))
 
     with tab2:
         c1, c2 = st.columns(2)
