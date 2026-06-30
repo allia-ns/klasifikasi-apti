@@ -1,224 +1,224 @@
 No,Nama Latin,Nama Umum,Asam Askorbat (mg/g),Total Klorofil,Kadar Ph,Kadar Air,Label Toleransi,Kategori Paparan Polusi,Lokasi,Asam Askorbat (mg/g) (Normalisasi),Total Klorofil (Normalisasi),Kadar Ph (Normalisasi),Kadar Air (Normalisasi)
-1,Acacia arabica Willd.,Akasia Arab,5.98,4.54,6.5,79,Toleran,Tinggi,Lahartara India,0.1993066436,0.107398568,0.6274509804,0.7767504792
-2,Ageratum conyzoides L.,Bandotan,4.2,23.81,6.4,64,Toleran,Tinggi,Lahartara India,0.1399713324,0.5673031026,0.6078431373,0.6076220543
+1,Acacia arabica,Akasia Arab,5.98,4.54,6.5,79,Toleran,Tinggi,Lahartara India,0.1993066436,0.107398568,0.6274509804,0.7767504792
+2,Ageratum conyzoides,Bandotan,4.2,23.81,6.4,64,Toleran,Tinggi,Lahartara India,0.1399713324,0.5673031026,0.6078431373,0.6076220543
 3,Albizia chinensis,Sengon,0.0404,0.29,7.18,64.4,Toleran,Tinggi,Bukit Asam Sumatera Selatan,0.001313377113,0.005966587112,0.7607843137,0.6121321457
-4,Albizzia lebbek Benth.,Kuping Gajah,18,8,6.3,53,Toleran,Tinggi,Lahartara India,0.5999866662,0.1899761337,0.5882352941,0.4835945428
-5,Argemone mexicana L.,Duri Landak,6,20.56,6.3,66,Toleran,Tinggi,Lahartara India,0.1999733324,0.4897374702,0.5882352941,0.630172511
+4,Albizzia lebbeck,Kuping Gajah,18,8,6.3,53,Toleran,Tinggi,Lahartara India,0.5999866662,0.1899761337,0.5882352941,0.4835945428
+5,Argemone mexicana,Duri Landak,6,20.56,6.3,66,Toleran,Tinggi,Lahartara India,0.1999733324,0.4897374702,0.5882352941,0.630172511
 6,Azadirachta indica,Mimba,3.458,39.71,7.1,53.72,Toleran,Tinggi,Hamidia Road Bhopal,0.1152371746,0.946778043,0.7450980392,0.4917127072
-7,Azadirachta indica A. Juss.,Mimba,10.21,7.5,6.3,77,Toleran,Tinggi,Lahartara India,0.3403113437,0.1780429594,0.5882352941,0.7542000226
-8,Bambusa bambos Rotz.,Bambu Durian,7.26,13.6,6.8,66,Toleran,Tinggi,Lahartara India,0.2419747325,0.323627685,0.6862745098,0.630172511
-9,Bougainvillea spectabilis,Bugenvil,0.1,2.99,7.1,68.42,Toleran,Rendah,Aizawl India,0.003300110004,0.07040572792,0.7450980392,0.6574585635
-10,Bougainvillea spectabilis Willd.,Bugenvil,12.79,11.7,6.1,74,Toleran,Tinggi,Lahartara India,0.4263142105,0.2782816229,0.5490196078,0.7203743376
-11,Calotropis gigantes Ait. Hort.,Biduri,9,13,6.4,94,Toleran,Tinggi,Lahartara India,0.2999766659,0.3093078759,0.6078431373,0.945878904
-12,Calotropis procera Ait. Hort.,Biduri Merah,8.5,5.27,6.2,96,Toleran,Tinggi,Lahartara India,0.2833094436,0.1248210024,0.568627451,0.9684293607
+7,Azadirachta indica,Mimba,10.21,7.5,6.3,77,Toleran,Tinggi,Lahartara India,0.3403113437,0.1780429594,0.5882352941,0.7542000226
+8,Bambusa bambos,Bambu Durian,7.26,13.6,6.8,66,Toleran,Tinggi,Lahartara India,0.2419747325,0.323627685,0.6862745098,0.630172511
+9,Bougainvillea spectabilis,Bugenvil Besar,0.1,2.99,7.1,68.42,Toleran,Rendah,Aizawl India,0.003300110004,0.07040572792,0.7450980392,0.6574585635
+10,Bougainvillea sp.,Bugenvil,12.79,11.7,6.1,74,Toleran,Tinggi,Lahartara India,0.4263142105,0.2782816229,0.5490196078,0.7203743376
+11,Calotropis gigantes,Biduri,9,13,6.4,94,Toleran,Tinggi,Lahartara India,0.2999766659,0.3093078759,0.6078431373,0.945878904
+12,Calotropis procera,Biduri Merah,8.5,5.27,6.2,96,Toleran,Tinggi,Lahartara India,0.2833094436,0.1248210024,0.568627451,0.9684293607
 13,Cascabela thevetia,Oleander Kuning,0.55,3.19,6.3,97.8,Toleran,Tinggi,Maitreyi College Delhi,0.01830061002,0.07517899761,0.5882352941,0.9887247717
-14,Cassia fistula L.,Tengguli,16,6.89,6.2,72,Toleran,Tinggi,Lahartara India,0.5333177773,0.1634844869,0.568627451,0.6978238809
-15,Casuarina equisetifolia L.,Cemara Kuda,2.59,0.75,5.4,58,Toleran,Tinggi,Lahartara India,0.08630287676,0.0169451074,0.4117647059,0.5399706844
-16,Catharanthus roseus G. Don.,Tapak Dara,14,7.7,5.7,76,Toleran,Tinggi,Lahartara India,0.4666488883,0.1828162291,0.4705882353,0.7429247942
-17,Citrus lemon (L.) Burm. f.,Lemon,6.25,6.68,6,74,Toleran,Tinggi,Lahartara India,0.2083069436,0.1584725537,0.5294117647,0.7203743376
-18,Clerodendron infortunatum L.,Ki Rinyuh,10,7.56,5.9,48,Toleran,Tinggi,Lahartara India,0.3333111104,0.1794749403,0.5098039216,0.4272184012
-19,Cordia myxa L.,Serut,4.5,6.38,8.4,55,Toleran,Tinggi,Lahartara India,0.1499716657,0.1513126492,1,0.5061449994
-20,Croton sparsiflorus Morong.,Jarak Cina,8.78,11.47,6,79,Toleran,Tinggi,Lahartara India,0.2926430881,0.2727923628,0.5294117647,0.7767504792
-21,Cyanodon dactylon L.,Rumput Bermuda,3.9,12.78,6.3,80,Toleran,Tinggi,Lahartara India,0.129970999,0.3040572792,0.5882352941,0.7880257075
+14,Cassia fistula,Tengguli,16,6.89,6.2,72,Toleran,Tinggi,Lahartara India,0.5333177773,0.1634844869,0.568627451,0.6978238809
+15,Casuarina equisetifolia,Cemara Kuda,2.59,0.75,5.4,58,Toleran,Tinggi,Lahartara India,0.08630287676,0.0169451074,0.4117647059,0.5399706844
+16,Catharanthus roseus,Tapak Dara,14,7.7,5.7,76,Toleran,Tinggi,Lahartara India,0.4666488883,0.1828162291,0.4705882353,0.7429247942
+17,Citrus lemon,Lemon,6.25,6.68,6,74,Toleran,Tinggi,Lahartara India,0.2083069436,0.1584725537,0.5294117647,0.7203743376
+18,Clerodendron infortunatum,Ki Rinyuh,10,7.56,5.9,48,Toleran,Tinggi,Lahartara India,0.3333111104,0.1794749403,0.5098039216,0.4272184012
+19,Cordia myxa,Sebesten Plum,4.5,6.38,8.4,55,Toleran,Tinggi,Lahartara India,0.1499716657,0.1513126492,1,0.5061449994
+20,Croton sparsiflorus,Jarak Cina,8.78,11.47,6,79,Toleran,Tinggi,Lahartara India,0.2926430881,0.2727923628,0.5294117647,0.7767504792
+21,Cynodon dactylon,Rumput Bermuda,3.9,12.78,6.3,80,Toleran,Tinggi,Lahartara India,0.129970999,0.3040572792,0.5882352941,0.7880257075
 22,Dalbergia sissoo,Sonosiso,2.356,41.57,7.1,63.99,Toleran,Tinggi,Hamidia Road Bhopal,0.07850261675,0.9911694511,0.7450980392,0.6075093021
-23,Delonix regia Rafin.,Flamboyan,2,6.27,6.4,45,Toleran,Tinggi,Lahartara India,0.06663555452,0.1486873508,0.6078431373,0.3933927162
-24,Dichanthium annulatum Forssk.,Rumput Gerinting,2.78,11.56,6.4,70,Toleran,Tinggi,Lahartara India,0.09263642121,0.2749403341,0.6078431373,0.6752734243
+23,Delonix regia,Flamboyan,2,6.27,6.4,45,Toleran,Tinggi,Lahartara India,0.06663555452,0.1486873508,0.6078431373,0.3933927162
+24,Dichanthium annulatum,Rumput Gerinting,2.78,11.56,6.4,70,Toleran,Tinggi,Lahartara India,0.09263642121,0.2749403341,0.6078431373,0.6752734243
 25,Eugenia uniflora,Surinam Cherry,0.52,4.08,4.5,94.9,Toleran,Tinggi,Maitreyi College Delhi,0.01730057669,0.09642004773,0.2352941176,0.9560266095
-26,Euphorbia hirta L.,Gulma Susu,4,11.12,6,72,Toleran,Tinggi,Lahartara India,0.1333044435,0.2644391408,0.5294117647,0.6978238809
-27,Ficus bengalensis,Beringin India,0.53,0.1,6.42,83.01,Toleran,Tinggi,Rourkela India,0.01763392113,0.001431980907,0.6117647059,0.8219641448
+26,Euphorbia hirta,Gulma Susu,4,11.12,6,72,Toleran,Tinggi,Lahartara India,0.1333044435,0.2644391408,0.5294117647,0.6978238809
+27,Ficus benghalensis,Beringin India,0.53,0.1,6.42,83.01,Toleran,Tinggi,Rourkela India,0.01763392113,0.001431980907,0.6117647059,0.8219641448
 28,Ficus elastica,Karet Kebo,20,0.33,7.3,92.14,Toleran,Sedang,Butuan City Filipina,0.6666555552,0.00692124105,0.7843137255,0.9249069794
-29,Ficus infectoria Roxb.,Beringin Putih,5,8.6,7,81,Toleran,Tinggi,Lahartara India,0.166638888,0.2042959427,0.7254901961,0.7993009358
+29,Ficus infectoria,Beringin Putih,5,8.6,7,81,Toleran,Tinggi,Lahartara India,0.166638888,0.2042959427,0.7254901961,0.7993009358
 30,Ficus racemosa,Loa,0.61,2.72,7.6,93.6,Toleran,Tinggi,Maitreyi College Delhi,0.02030067669,0.06396181384,0.8431372549,0.9413688127
-31,Ficus religiosa L.,Bodhi,4.78,14.86,8,87,Toleran,Tinggi,Lahartara India,0.1593053102,0.353699284,0.9215686275,0.8669523058
+31,Ficus religiosa,Pohon Bodhi,4.78,14.86,8,87,Toleran,Tinggi,Lahartara India,0.1593053102,0.353699284,0.9215686275,0.8669523058
 32,Hamelia patens,Kembang Api-api,0.65,5.94,3.9,95.6,Toleran,Tinggi,Maitreyi College Delhi,0.02163405447,0.1408114558,0.1176470588,0.9639192694
 33,Hibiscus rosa-sinensis,Kembang Sepatu,0.45,1.98,5.39,90.26,Toleran,Tinggi,Rourkela India,0.01496716557,0.04630071599,0.4098039216,0.9037095501
-34,Ipomea fistulosa Mart.,Tembok Lulut,5.5,7.86,6.4,73,Toleran,Tinggi,Lahartara India,0.1833061102,0.1866348449,0.6078431373,0.7090991093
-35,Lagerstroemia parviflora Roxb.,Bungur,5.39,6.98,6.4,50,Toleran,Tinggi,Lahartara India,0.1796393213,0.1656324582,0.6078431373,0.4497688578
+34,Ipomoea fistulosa,Tembok Lulut,5.5,7.86,6.4,73,Toleran,Tinggi,Lahartara India,0.1833061102,0.1866348449,0.6078431373,0.7090991093
+35,Lagerstroemia parviflora,Bungur,5.39,6.98,6.4,50,Toleran,Tinggi,Lahartara India,0.1796393213,0.1656324582,0.6078431373,0.4497688578
 36,Lantana camara,Tembelekan,0.28,1.05,6.96,78.94,Toleran,Tinggi,Rourkela India,0.00930031001,0.02410501193,0.7176470588,0.7760739655
-37,Lantana indica Roxb.,Lantana,4.63,7.51,7.6,65,Toleran,Tinggi,Lahartara India,0.1543051435,0.1782816229,0.8431372549,0.6188972827
-38,Leucaena leucocephala (Lam.) de Wit.,Lamtoro,5.8,12.5,5.8,86,Toleran,Tinggi,Lahartara India,0.1933064435,0.2973747017,0.4901960784,0.8556770775
-39,Leucas aspera Spr.,Rumput Kecubung,5.1,8.54,6.8,70,Toleran,Tinggi,Lahartara India,0.1699723324,0.2028639618,0.6862745098,0.6752734243
+37,Lantana indica,Lantana,4.63,7.51,7.6,65,Toleran,Tinggi,Lahartara India,0.1543051435,0.1782816229,0.8431372549,0.6188972827
+38,Leucaena leucocephala,Lamtoro,5.8,12.5,5.8,86,Toleran,Tinggi,Lahartara India,0.1933064435,0.2973747017,0.4901960784,0.8556770775
+39,Leucas aspera,Rumput Kecubung,5.1,8.54,6.8,70,Toleran,Tinggi,Lahartara India,0.1699723324,0.2028639618,0.6862745098,0.6752734243
 40,Mangifera altissima,Mangga Hutan,30,0.31,5.3,86.82,Toleran,Sedang,Butuan City Filipina,1,0.006443914081,0.3921568627,0.8649227647
 41,Mangifera indica,Mangga,0.0013,0.96,6.07,96.34,Toleran,Tinggi,Kawasan Industri Pulogadung,0.00001000033334,0.02195704057,0.5431372549,0.9722629383
 42,Mangifera indica,Mangga,0.25,1.1,5.88,88.09,Toleran,Tinggi,Rourkela India,0.008300276676,0.02529832936,0.5058823529,0.8792423047
 43,Mangifera indica,Mangga,0.16,2.41,7.07,78.03,Toleran,Rendah,Aizawl India,0.005300176673,0.05656324582,0.7392156863,0.7658135077
 44,Mangifera indica,Mangga,0.00163,1.03,5.51,85.63,Toleran,Tinggi,Hutan Kota Kampus UI Depok,0.00002100070002,0.02362768496,0.4333333333,0.851505243
-45,Mangifera indica (India),Mangga,3.214,12.27,6.5,53.36,Toleran,Tinggi,Hamidia Road Bhopal,0.1071035701,0.2918854415,0.6274509804,0.487653625
-46,Murraya exotica,Orange Jessamine,0.63,5.69,5.5,95.7,Toleran,Tinggi,Maitreyi College Delhi,0.02096736558,0.1348448687,0.431372549,0.9650467922
+45,Mangifera indica,Mangga,3.214,12.27,6.5,53.36,Toleran,Tinggi,Hamidia Road Bhopal,0.1071035701,0.2918854415,0.6274509804,0.487653625
+46,Murraya exotica,Kemuning,0.63,5.69,5.5,95.7,Toleran,Tinggi,Maitreyi College Delhi,0.02096736558,0.1348448687,0.431372549,0.9650467922
 47,Musa sp.,Banana,0.6,4.9,5.8,98.8,Toleran,Tinggi,Maitreyi College Delhi,0.01996733224,0.1159904535,0.4901960784,1
 48,Neolamarckia cadamba,Jabon,2.225,37.79,6.6,62.9,Toleran,Tinggi,Hamidia Road Bhopal,0.07413580453,0.9009546539,0.6470588235,0.5952193032
-49,Nerium odorum Sol.,Oleander,8.6,2.5,6.2,84,Toleran,Tinggi,Lahartara India,0.2866428881,0.05871121718,0.568627451,0.8331266208
+49,Nerium odorum,Oleander,8.6,2.5,6.2,84,Toleran,Tinggi,Lahartara India,0.2866428881,0.05871121718,0.568627451,0.8331266208
 50,Nyctanthes arbor-tristis,Srigading,0.6,2.98,5.9,91.8,Toleran,Tinggi,Maitreyi College Delhi,0.01996733224,0.07016706444,0.5098039216,0.9210734017
-51,Pithecolobium dulce Benth.,Asam Belanda,7.05,16.41,6,87,Toleran,Tinggi,Lahartara India,0.2349744991,0.3906921241,0.5294117647,0.8669523058
-52,Poinsettia pulcherrima R. Grah.,Kastuba,7,17.1,6,80,Toleran,Tinggi,Lahartara India,0.2333077769,0.4071599045,0.5294117647,0.7880257075
+51,Pithecolobium dulce,Asam Belanda,7.05,16.41,6,87,Toleran,Tinggi,Lahartara India,0.2349744991,0.3906921241,0.5294117647,0.8669523058
+52,Poinsettia pulcherrima,Kastuba,7,17.1,6,80,Toleran,Tinggi,Lahartara India,0.2333077769,0.4071599045,0.5294117647,0.7880257075
 53,Premna odorata,Singkil,20,0.35,5.4,85.5,Toleran,Sedang,Butuan City Filipina,0.6666555552,0.007398568019,0.4117647059,0.8500394633
 54,Psidium guajava,Jambu Biji,0.47,0.92,5.56,86.95,Toleran,Tinggi,Rourkela India,0.01563385446,0.02100238663,0.4431372549,0.8663885444
-55,Psidium guajava (India),Jambu biji,3.369,41.94,6.4,40.3,Toleran,Tinggi,Hamidia Road Bhopal,0.112270409,1,0.6078431373,0.3403991431
+55,Psidium guajava,Jambu Biji,3.369,41.94,6.4,40.3,Toleran,Tinggi,Hamidia Road Bhopal,0.112270409,1,0.6078431373,0.3403991431
 56,Ravenala madagascariensis,Pisang Kipas,0.6,2.51,6.3,96.5,Toleran,Tinggi,Maitreyi College Delhi,0.01996733224,0.05894988067,0.5882352941,0.9740669749
-57,Ricinus communis L.,Jarak,5,17.2,6.2,93,Toleran,Tinggi,Lahartara India,0.166638888,0.4095465394,0.568627451,0.9346036757
+57,Ricinus communis,Jarak,5,17.2,6.2,93,Toleran,Tinggi,Lahartara India,0.166638888,0.4095465394,0.568627451,0.9346036757
 58,Salmalia sp.,Randu Alas,0.52,2.89,6.3,97.4,Toleran,Tinggi,Maitreyi College Delhi,0.01730057669,0.06801909308,0.5882352941,0.9842146803
 59,Terminalia arjuna,Pohon Arjuna,0.6,2.91,5.3,97,Toleran,Tinggi,Maitreyi College Delhi,0.01996733224,0.06849642005,0.3921568627,0.979704589
-60,Terminalia arjuna Bedd.,Arjuna,7.98,4.86,6.1,75,Toleran,Tinggi,Lahartara India,0.2659755325,0.1150357995,0.5490196078,0.7316495659
-61,Zizyphus jujuba Lamk.,Bidara,10.5,10.26,6,80,Toleran,Tinggi,Lahartara India,0.3499783326,0.2439140811,0.5294117647,0.7880257075
+60,Terminalia arjuna,Pohon Arjuna,7.98,4.86,6.1,75,Toleran,Tinggi,Lahartara India,0.2659755325,0.1150357995,0.5490196078,0.7316495659
+61,Zizyphus jujuba,Bidara,10.5,10.26,6,80,Toleran,Tinggi,Lahartara India,0.3499783326,0.2439140811,0.5294117647,0.7880257075
 62,Acacia auriculiformis,Akasia Daun Kecil,0.0372,0.27,5.73,63.87,Moderat,Tinggi,Bukit Asam Sumatera Selatan,0.00120670689,0.005489260143,0.4764705882,0.6061562747
-63,Acacia auriculiformis (Filipina),Akasia Daun Kecil,2.5,0.32,5.6,73.95,Moderat,Sedang,Butuan City Filipina,0.08330277676,0.006682577566,0.4509803922,0.7198105762
+63,Acacia auriculiformis,Akasia Daun Kecil,2.5,0.32,5.6,73.95,Moderat,Sedang,Butuan City Filipina,0.08330277676,0.006682577566,0.4509803922,0.7198105762
 64,Acacia mangium,Akasia Mangium,7.5,0.3,5.4,77.01,Moderat,Sedang,Butuan City Filipina,0.2499749992,0.006205250597,0.4117647059,0.7543127748
 65,Alstonia scholaris,Pulai,0.57,2.75,6,73.1,Moderat,Tinggi,Maitreyi College Delhi,0.01896729891,0.0646778043,0.5294117647,0.7102266321
-66,Annona squamosa,Sugar Apple,0.63,5.56,5.3,89,Moderat,Tinggi,Maitreyi College Delhi,0.02096736558,0.1317422434,0.3921568627,0.8895027624
+66,Annona squamosa,Srikaya,0.63,5.56,5.3,89,Moderat,Tinggi,Maitreyi College Delhi,0.02096736558,0.1317422434,0.3921568627,0.8895027624
 67,Araucaria sp.,Araucaria,0.61,2.38,5.5,84.4,Moderat,Tinggi,Maitreyi College Delhi,0.02030067669,0.05584725537,0.431372549,0.8376367121
 68,Arenga piÃƒÂ±ata,Aren,4,6.59,5.6,71.72,Moderat,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.1563245823,0.4509803922,0.694666817
-69,Artocarpus heterophillus,Nangka,4,3.98,6.44,81.11,Moderat,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.09403341289,0.6156862745,0.800541211
-70,Azadirachta indica,Neem,0.6,2.28,6.2,86,Moderat,Tinggi,Maitreyi College Delhi,0.01996733224,0.05346062053,0.568627451,0.8556770775
+69,Artocarpus heterophyllus,Nangka,4,3.98,6.44,81.11,Moderat,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.09403341289,0.6156862745,0.800541211
+70,Azadirachta indica,Mimba,0.6,2.28,6.2,86,Moderat,Tinggi,Maitreyi College Delhi,0.01996733224,0.05346062053,0.568627451,0.8556770775
 71,Bauhinia purpurea,Bunga Kupu-kupu,0.001,1.26,7.16,97.54,Moderat,Sedang,Bojongsari dan Sawangan Depok,0,0.02911694511,0.7568627451,0.9857932123
 72,Bauhinia purpurea,Bunga Kupu-kupu,0.001,0.99,6.69,90.02,Moderat,Sedang,Hutan Kota Kampus UI Depok,0,0.02267303103,0.6647058824,0.9010034953
-73,Bauhinia purpurea (Filipina),Bunga Kupu-kupu,7.5,0.36,6.4,83.38,Moderat,Sedang,Butuan City Filipina,0.2499749992,0.007637231504,0.6078431373,0.8261359793
-74,Bougainvillea glabra,Bugenvil,2.985,26.59,7.1,70.48,Moderat,Tinggi,Hamidia Road Bhopal,0.09946998233,0.6336515513,0.7450980392,0.6806855339
-75,Bougainvillea sp.,Bugenvil,0.62,2.93,6.2,77.2,Moderat,Tinggi,Maitreyi College Delhi,0.02063402113,0.06897374702,0.568627451,0.7564550682
+73,Bauhinia purpurea,Bunga Kupu-kupu,7.5,0.36,6.4,83.38,Moderat,Sedang,Butuan City Filipina,0.2499749992,0.007637231504,0.6078431373,0.8261359793
+74,Bougainvillea glabra,Bugenvil Licin,2.985,26.59,7.1,70.48,Moderat,Tinggi,Hamidia Road Bhopal,0.09946998233,0.6336515513,0.7450980392,0.6806855339
+75,Bougainvillea spectabilis,Bugenvil Besar,0.62,2.93,6.2,77.2,Moderat,Tinggi,Maitreyi College Delhi,0.02063402113,0.06897374702,0.568627451,0.7564550682
 76,Caesalpinia pulcherrima,Peacock Flower,0.6,5.25,5.6,73.9,Moderat,Tinggi,Maitreyi College Delhi,0.01996733224,0.1243436754,0.4509803922,0.7192468147
 77,Calliandra sp.,Kaliandra,0.6,4.1,5.8,83.8,Moderat,Tinggi,Maitreyi College Delhi,0.01996733224,0.0968973747,0.4901960784,0.8308715751
 78,Carica papaya,Papaya,0.61,3.97,6.5,71.3,Moderat,Tinggi,Maitreyi College Delhi,0.02030067669,0.0937947494,0.6274509804,0.6899312211
 79,Cassia fistula,Tengguli,0.61,2.39,6.1,82.7,Moderat,Tinggi,Maitreyi College Delhi,0.02030067669,0.05608591885,0.5490196078,0.818468824
 80,Cassia fistula,Tengguli,5,0.31,5.5,63.07,Moderat,Sedang,Butuan City Filipina,0.166638888,0.006443914081,0.431372549,0.597136092
 81,Ceiba petandra,Kapuk Randu,4,6.6,6.54,87.33,Moderat,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.1565632458,0.6352941176,0.8706731311
-82,Chrysophylum cainito,Sawo Duren,10,0.36,5.7,81.65,Moderat,Sedang,Butuan City Filipina,0.3333111104,0.007637231504,0.4705882353,0.8066298343
+82,Chrysophyllum cainito,Sawo Duren,10,0.36,5.7,81.65,Moderat,Sedang,Butuan City Filipina,0.3333111104,0.007637231504,0.4705882353,0.8066298343
 83,Citrus limon,Lemon,0.55,2.49,6.6,86.3,Moderat,Tinggi,Maitreyi College Delhi,0.01830061002,0.0584725537,0.6470588235,0.859059646
-84,Cordia myxa,Kendal,0.61,2.5,6.5,76.4,Moderat,Tinggi,Maitreyi College Delhi,0.02030067669,0.05871121718,0.6274509804,0.7474348856
+84,Cordia myxa,Sebesten Plum,0.61,2.5,6.5,76.4,Moderat,Tinggi,Maitreyi College Delhi,0.02030067669,0.05871121718,0.6274509804,0.7474348856
 85,Crescentia cujete,Berenuk,7.5,0.3,5.3,78.47,Moderat,Sedang,Butuan City Filipina,0.2499749992,0.006205250597,0.3921568627,0.7707746082
 86,Cycas revoluta,Sago Palm,0.6,2.36,6.3,77.2,Moderat,Tinggi,Maitreyi College Delhi,0.01996733224,0.0553699284,0.5882352941,0.7564550682
 87,Cynometra ramiflora,Katong-katong,7.5,0.3,5.6,80.41,Moderat,Sedang,Butuan City Filipina,0.2499749992,0.006205250597,0.4509803922,0.7926485511
-88,Delonix regia,Flamboyant,0.51,3.35,5.8,90.2,Moderat,Tinggi,Maitreyi College Delhi,0.01696723224,0.07899761337,0.4901960784,0.9030330364
+88,Delonix regia,Flamboyan,0.51,3.35,5.8,90.2,Moderat,Tinggi,Maitreyi College Delhi,0.01696723224,0.07899761337,0.4901960784,0.9030330364
 89,Delonix regia,Flamboyan,4,5.04,5.89,80.39,Moderat,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.1193317422,0.5078431373,0.7924230466
 90,Dillenia indica,Simpur,4,1.67,5.44,92.9,Moderat,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.03890214797,0.4196078431,0.9334761529
 91,Diospyros blancoi,Buah Mentega,4,2.1,6.2,87.38,Moderat,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.0491646778,0.568627451,0.8712368925
 92,Dypsis lutescens,Areca Palm,0.6,2.44,5.9,89.6,Moderat,Tinggi,Maitreyi College Delhi,0.01996733224,0.05727923628,0.5098039216,0.8962678994
 93,Emblica officinalis,Indian Gooseberry,0.55,2.68,3.3,87.7,Moderat,Tinggi,Maitreyi College Delhi,0.01830061002,0.0630071599,0,0.8748449656
-94,Ficus bengalensis L.,Beringin,7.49,6.94,8,79,Moderat,Tinggi,Lahartara India,0.2496416547,0.1646778043,0.9215686275,0.7767504792
-95,Ficus benghalensis,Beringin,0.51,2.34,4.8,82.2,Moderat,Tinggi,Maitreyi College Delhi,0.01696723224,0.05489260143,0.2941176471,0.8128312098
-96,Ficus benjamina (India),Beringin,2.369,13.77,7.5,68.24,Moderat,Tinggi,Hamidia Road Bhopal,0.07893596453,0.3276849642,0.8235294118,0.6554290224
+94,Ficus benghalensis,Beringin India,7.49,6.94,8,79,Moderat,Tinggi,Lahartara India,0.2496416547,0.1646778043,0.9215686275,0.7767504792
+95,Ficus benghalensis,Beringin India,0.51,2.34,4.8,82.2,Moderat,Tinggi,Maitreyi College Delhi,0.01696723224,0.05489260143,0.2941176471,0.8128312098
+96,Ficus benjamina,Beringin,2.369,13.77,7.5,68.24,Moderat,Tinggi,Hamidia Road Bhopal,0.07893596453,0.3276849642,0.8235294118,0.6554290224
 97,Ficus elastica,Karet Kebo,0.42,1.8,5.5,81.4,Moderat,Tinggi,Maitreyi College Delhi,0.01396713224,0.04200477327,0.431372549,0.8038110272
 98,Ficus panda,Ficus Panda,0.6,2.39,7.8,83.1,Moderat,Tinggi,Maitreyi College Delhi,0.01996733224,0.05608591885,0.8823529412,0.8229789153
 99,Ficus religiosa,Pohon Bodhi,0.61,2.71,6.4,74.1,Moderat,Tinggi,Maitreyi College Delhi,0.02030067669,0.06372315036,0.6078431373,0.7215018604
 100,Ficus virens,Ara Putih,0.6,2.38,5.8,91.2,Moderat,Tinggi,Maitreyi College Delhi,0.01996733224,0.05584725537,0.4901960784,0.9143082647
 101,Filicium decipiens,Kerai Payung,0.001,0.74,6.34,98.32,Moderat,Sedang,Bojongsari dan Sawangan Depok,0,0.01670644391,0.5960784314,0.9945878904
 102,Gmelina arborea,Jati Putih,7.5,0.35,5.1,79.21,Moderat,Sedang,Butuan City Filipina,0.2499749992,0.007398568019,0.3529411765,0.7791182771
-103,Hibiscus rosa-sinensis,Hibiscus,0.62,3.68,6.3,80.8,Moderat,Tinggi,Maitreyi College Delhi,0.02063402113,0.08687350835,0.5882352941,0.7970458902
+103,Hibiscus rosa-sinensis,Kembang Sepatu,0.62,3.68,6.3,80.8,Moderat,Tinggi,Maitreyi College Delhi,0.02063402113,0.08687350835,0.5882352941,0.7970458902
 104,Holoptelea integrifolia,Indian Elm,0.59,2.59,6,90.4,Moderat,Tinggi,Maitreyi College Delhi,0.0196339878,0.06085918854,0.5294117647,0.9052880821
 105,Ixora sp.,Soka Flower,0.45,2.2,6,73.9,Moderat,Tinggi,Maitreyi College Delhi,0.01496716557,0.05155131265,0.5294117647,0.7192468147
 106,Jatropha sp.,Jatropah,0.6,2.96,5.3,82.5,Moderat,Tinggi,Maitreyi College Delhi,0.01996733224,0.06968973747,0.3921568627,0.8162137783
 107,Juniperus sp.,Juniper,0.6,2.34,5.9,89.2,Moderat,Tinggi,Maitreyi College Delhi,0.01996733224,0.05489260143,0.5098039216,0.8917578081
-108,Lagerstomia speciousa,Bungur,4,3.19,6.12,91.74,Moderat,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.07517899761,0.5529411765,0.920396888
-109,Leucaena leucocephala,River Tamarind,0.6,6.5,6.8,87.5,Moderat,Tinggi,Maitreyi College Delhi,0.01996733224,0.154176611,0.6862745098,0.8725899199
+108,Lagerstroemia speciousa,Bungur,4,3.19,6.12,91.74,Moderat,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.07517899761,0.5529411765,0.920396888
+109,Leucaena leucocephala,Lamtoro,0.6,6.5,6.8,87.5,Moderat,Tinggi,Maitreyi College Delhi,0.01996733224,0.154176611,0.6862745098,0.8725899199
 110,Leucaena leucocephala,Lamtoro,5,0.35,5.3,90.79,Moderat,Sedang,Butuan City Filipina,0.166638888,0.007398568019,0.3921568627,0.9096854211
-111,Mangifera indica,Mango,0.51,2.86,6,91.4,Moderat,Tinggi,Maitreyi College Delhi,0.01696723224,0.06730310263,0.5294117647,0.9165633104
+111,Mangifera indica,Manga,0.51,2.86,6,91.4,Moderat,Tinggi,Maitreyi College Delhi,0.01696723224,0.06730310263,0.5294117647,0.9165633104
 112,Melaleuca leucadendra,Kayu Putih,0.042,0.27,4.96,69.33,Moderat,Tinggi,Bukit Asam Sumatera Selatan,0.001366712224,0.005489260143,0.3254901961,0.6677190213
-113,Mimusoph elengi,Tanjung,3.99,5.14,5.73,84.62,Moderat,Tinggi,Lingkar Luar Kebun Raya Bogor,0.132971099,0.1217183771,0.4764705882,0.8401172624
-114,Mimusops elengi (Palembang),Tanjung,0.005,0.068,6.15,59.3,Moderat,Tinggi,Kawasan Industri Petrokimia Palembang,0.0001333377779,0.0006682577566,0.5588235294,0.5546284812
-115,Moringa oleifera,Moringa,0.51,3.67,5.6,76.3,Moderat,Tinggi,Maitreyi College Delhi,0.01696723224,0.08663484487,0.4509803922,0.7463073627
+113,Mimusops elengi,Tanjung,3.99,5.14,5.73,84.62,Moderat,Tinggi,Lingkar Luar Kebun Raya Bogor,0.132971099,0.1217183771,0.4764705882,0.8401172624
+114,Mimusops elengi,Tanjung,0.005,0.068,6.15,59.3,Moderat,Tinggi,Kawasan Industri Petrokimia Palembang,0.0001333377779,0.0006682577566,0.5588235294,0.5546284812
+115,Moringa oleifera,Kelor,0.51,3.67,5.6,76.3,Moderat,Tinggi,Maitreyi College Delhi,0.01696723224,0.08663484487,0.4509803922,0.7463073627
 116,Nephelium lappaceum,Rambutan,0.001,1.06,7.09,87.22,Moderat,Sedang,Hutan Kota Kampus UI Depok,0,0.02434367542,0.7431372549,0.869432856
-117,Nerium oleander,Oleander,0.51,2.5,5.9,86.5,Moderat,Tinggi,Maitreyi College Delhi,0.01696723224,0.05871121718,0.5098039216,0.8613146916
+117,Nerium oleander,Bunga Mentega,0.51,2.5,5.9,86.5,Moderat,Tinggi,Maitreyi College Delhi,0.01696723224,0.05871121718,0.5098039216,0.8613146916
 118,Phyllanthus distichus Muell.-Arg.,Kemunting,12.3,9.2,6,35,Moderat,Tinggi,Lahartara India,0.4099803327,0.2186157518,0.5294117647,0.280640433
-119,Phyllanthus niruri L.,Meniran,8.36,6,5.4,86,Moderat,Tinggi,Lahartara India,0.2786426214,0.1422434368,0.4117647059,0.8556770775
+119,Phyllanthus niruri,Meniran,8.36,6,5.4,86,Moderat,Tinggi,Lahartara India,0.2786426214,0.1422434368,0.4117647059,0.8556770775
 120,Plumeria alba,White Frangipani,0.61,3.19,6.3,81.5,Moderat,Tinggi,Maitreyi College Delhi,0.02030067669,0.07517899761,0.5882352941,0.80493855
 121,Plumeria obtusa,Singapore Graveyard Flower,0.61,2.78,5.6,85.4,Moderat,Tinggi,Maitreyi College Delhi,0.02030067669,0.06539379475,0.4509803922,0.8489119405
 122,Polyalthia longifolia,Glodokan Tiang,7.5,0.35,5.8,62.34,Moderat,Sedang,Butuan City Filipina,0.2499749992,0.007398568019,0.4901960784,0.5889051753
 123,Polyalthia longifolia,Glodokan Tiang,0.62,2.48,6.2,76.7,Moderat,Tinggi,Maitreyi College Delhi,0.02063402113,0.05823389021,0.568627451,0.7508174541
-124,Polyalthia longifolia Benth.,Glodokan Tiang,8.68,5.78,6.2,80,Moderat,Tinggi,Lahartara India,0.2893096437,0.1369928401,0.568627451,0.7880257075
+124,Polyalthia longifolia,Glodokan Tiang,8.68,5.78,6.2,80,Moderat,Tinggi,Lahartara India,0.2893096437,0.1369928401,0.568627451,0.7880257075
 125,Psidium guajava,Jambu Biji,5,0.35,5.4,89.92,Moderat,Sedang,Butuan City Filipina,0.166638888,0.007398568019,0.4117647059,0.8998759725
 126,Samanea saman,Ki Hujan,2.5,0.35,5.8,65.97,Moderat,Sedang,Butuan City Filipina,0.08330277676,0.007398568019,0.4901960784,0.6298342541
 127,Senna siamea,Johar,11.3,0.26,4.7,58.41,Moderat,Sedang,Butuan City Filipina,0.3766458882,0.005250596659,0.2745098039,0.544593528
 128,Senna surattensis,Kasia Emas,4.22,16.95,5.89,78.94,Moderat,Rendah,Kebun Bibit Wonorejo Surabaya,0.1406380213,0.4035799523,0.5078431373,0.7760739655
-129,Swietenia macrophylla (Filipina),Mahoni,7.5,0.35,6.1,80.47,Moderat,Sedang,Butuan City Filipina,0.2499749992,0.007398568019,0.5490196078,0.7933250648
-130,Swietenia macrophylla (Palembang),Mahoni,0.015,0.062,5.92,56.14,Moderat,Tinggi,Kawasan Industri Petrokimia Palembang,0.0004666822227,0.0005250596659,0.5137254902,0.5189987597
-131,Switenia macrophylla,Mahoni,4,3.7,5.89,86.05,Moderat,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.08735083532,0.5078431373,0.8562408389
-132,Syzygium cumini,Java Plum (Duwet,0.51,2.47,4.5,82.9,Moderat,Tinggi,Maitreyi College Delhi,0.01696723224,0.05799522673,0.2352941176,0.8207238697
+129,Swietenia macrophylla,Mahoni,7.5,0.35,6.1,80.47,Moderat,Sedang,Butuan City Filipina,0.2499749992,0.007398568019,0.5490196078,0.7933250648
+130,Swietenia macrophylla,Mahoni,0.015,0.062,5.92,56.14,Moderat,Tinggi,Kawasan Industri Petrokimia Palembang,0.0004666822227,0.0005250596659,0.5137254902,0.5189987597
+131,Swietenia macrophylla,Mahoni,4,3.7,5.89,86.05,Moderat,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.08735083532,0.5078431373,0.8562408389
+132,Syzygium cumini,Jambu Keling,0.51,2.47,4.5,82.9,Moderat,Tinggi,Maitreyi College Delhi,0.01696723224,0.05799522673,0.2352941176,0.8207238697
 133,Tabernaemontana divaricate,Pinwheel Flower,0.61,2.76,6.4,76.5,Moderat,Tinggi,Maitreyi College Delhi,0.02030067669,0.06491646778,0.6078431373,0.7485624084
 134,Thuja sp.,Thuja,0.63,1.98,4.9,91.9,Moderat,Tinggi,Maitreyi College Delhi,0.02096736558,0.04630071599,0.3137254902,0.9222009246
 135,Veitchia merilii,Palem Putri,4,2.69,6.02,97.02,Moderat,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.06324582339,0.5333333333,0.9799300936
 136,Acalypha wilkesiana,Copperleaf,0.6,2.64,5.7,66.4,Intermediet,Tinggi,Maitreyi College Delhi,0.01996733224,0.06205250597,0.4705882353,0.6346826023
-137,Alstonia scholaris,Pule,1.52,11.71,5.76,75.92,Intermediet,Rendah,Kebun Bibit Wonorejo Surabaya,0.05063502117,0.2785202864,0.4823529412,0.742022776
+137,Alstonia scholaris,Pulai,1.52,11.71,5.76,75.92,Intermediet,Rendah,Kebun Bibit Wonorejo Surabaya,0.05063502117,0.2785202864,0.4823529412,0.742022776
 138,Bambusa vulgaris,Bambu Kuning,0.61,2.46,6.1,66,Intermediet,Tinggi,Maitreyi College Delhi,0.02030067669,0.05775656325,0.5490196078,0.630172511
-139,Bauhinia variegata,Bunga Kupu-kupu,0.6,2.97,6.4,61.8,Intermediet,Tinggi,Maitreyi College Delhi,0.01996733224,0.06992840095,0.6078431373,0.582816552
+139,Bauhinia variegata,Pohon Kupu-kupu,0.6,2.97,6.4,61.8,Intermediet,Tinggi,Maitreyi College Delhi,0.01996733224,0.06992840095,0.6078431373,0.582816552
 140,Bixa orellana,Achiote,0.54,2.95,5.3,68.3,Intermediet,Tinggi,Maitreyi College Delhi,0.01796726558,0.06945107399,0.3921568627,0.6561055361
-141,Bombax ceiba L.,Randu Alas,6.54,6.79,6.2,74,Intermediet,Tinggi,Lahartara India,0.2179739325,0.161097852,0.568627451,0.7203743376
-142,Bougainvillea spectabilis,Bugenvil,0.2,1.45,6.84,75.6,Intermediet,Tinggi,Rourkela India,0.006633554452,0.03365155131,0.6941176471,0.7384147029
-143,Butea frondosa Roxb.,Kembang Merak,1.92,4.21,6.4,50,Intermediet,Tinggi,Lahartara India,0.06396879896,0.09952267303,0.6078431373,0.4497688578
+141,Bombax ceiba,Randu Alas,6.54,6.79,6.2,74,Intermediet,Tinggi,Lahartara India,0.2179739325,0.161097852,0.568627451,0.7203743376
+142,Bougainvillea spectabilis,Bugenvil Besar,0.2,1.45,6.84,75.6,Intermediet,Tinggi,Rourkela India,0.006633554452,0.03365155131,0.6941176471,0.7384147029
+143,Butea frondosa,Kembang Merak,1.92,4.21,6.4,50,Intermediet,Tinggi,Lahartara India,0.06396879896,0.09952267303,0.6078431373,0.4497688578
 144,Callistemon sp.,Bottlebrush,0.61,2.92,5.6,53.3,Intermediet,Tinggi,Maitreyi College Delhi,0.02030067669,0.06873508353,0.4509803922,0.4869771113
-145,Cassia fistula (India),Tengguli,2.658,26.81,6.2,54.17,Intermediet,Tinggi,Hamidia Road Bhopal,0.08856961899,0.638902148,0.568627451,0.4967865599
+145,Cassia fistula,Tengguli,2.658,26.81,6.2,54.17,Intermediet,Tinggi,Hamidia Road Bhopal,0.08856961899,0.638902148,0.568627451,0.4967865599
 146,Catharanthus roseus,Tapak Dara,2.39,29.2,6.69,28.45,Intermediet,Tinggi,Lahore Pakistan,0.07963598787,0.6959427208,0.6647058824,0.2067876875
 147,Cosmos Sulphureus,Kenikir Kuning,3.11,27.45,5.46,21.01,Intermediet,Tinggi,Lahore Pakistan,0.1036367879,0.654176611,0.4235294118,0.1228999887
 148,Dalbergia sissoo,North Indian Rosewood,0.6,3.12,6.4,69.7,Intermediet,Tinggi,Maitreyi College Delhi,0.01996733224,0.07350835322,0.6078431373,0.6718908558
-149,Duranta plumieri Jacq.,Rumput Kucing,6.5,7.5,5.8,70,Intermediet,Tinggi,Lahartara India,0.2166405547,0.1780429594,0.4901960784,0.6752734243
+149,Duranta plumieri,Rumput Kucing,6.5,7.5,5.8,70,Intermediet,Tinggi,Lahartara India,0.2166405547,0.1780429594,0.4901960784,0.6752734243
 150,Ephedra sp.,Joint-pine,0.6,4.97,5.5,60.1,Intermediet,Tinggi,Maitreyi College Delhi,0.01996733224,0.1176610979,0.431372549,0.5636486639
-151,Ficus glomerata Roxb.,Ara,4.79,14.89,8.4,71,Intermediet,Tinggi,Lahartara India,0.1596386546,0.3544152745,1,0.6865486526
-152,Ficus religiosa (India),Pohon bodhi,3.147,14.09,6.8,43.56,Intermediet,Tinggi,Hamidia Road Bhopal,0.1048701623,0.3353221957,0.6862745098,0.3771563874
+151,Ficus glomerata,Ara,4.79,14.89,8.4,71,Intermediet,Tinggi,Lahartara India,0.1596386546,0.3544152745,1,0.6865486526
+152,Ficus religiosa,Pohon bodhi,3.147,14.09,6.8,43.56,Intermediet,Tinggi,Hamidia Road Bhopal,0.1048701623,0.3353221957,0.6862745098,0.3771563874
 153,Grevillea robusta,Southern Silky Oak,0.51,3.03,6,52.8,Intermediet,Tinggi,Maitreyi College Delhi,0.01696723224,0.07136038186,0.5294117647,0.4813394971
 154,Hymenocallis littoralis,Spider Lily,1.3,11.04,5.86,90.81,Intermediet,Rendah,Kebun Bibit Wonorejo Surabaya,0.04330144338,0.2625298329,0.5019607843,0.9099109257
 155,Lagerstroemia sp.,Crape Myrtle,0.61,2.67,5.5,51.9,Intermediet,Tinggi,Maitreyi College Delhi,0.02030067669,0.06276849642,0.431372549,0.4711917916
-156,Lantana camara,Lantana,2.99,6.03,6.17,80.95,Intermediet,Rendah,Kebun Bibit Wonorejo Surabaya,0.09963665456,0.1429594272,0.562745098,0.7987371744
+156,Lantana camara,Tembelekan,2.99,6.03,6.17,80.95,Intermediet,Rendah,Kebun Bibit Wonorejo Surabaya,0.09963665456,0.1429594272,0.562745098,0.7987371744
 157,Melaleuca bracteata,Kayu Putih,0.61,2.33,5.6,52.2,Intermediet,Tinggi,Maitreyi College Delhi,0.02030067669,0.05465393795,0.4509803922,0.4745743601
-158,Mimusops elengi,Spanish Cherry,0.56,3.12,6,57,Intermediet,Tinggi,Maitreyi College Delhi,0.01863395447,0.07350835322,0.5294117647,0.5286954561
-159,Morus alba,White Mulberry,0.61,4.25,7,61.2,Intermediet,Tinggi,Maitreyi College Delhi,0.02030067669,0.100477327,0.7254901961,0.576051415
-160,Murraya exotica L.,Kemuning,4.67,6,6.2,78,Intermediet,Tinggi,Lahartara India,0.1556385213,0.1422434368,0.568627451,0.7654752509
+158,Mimusops elengi,Tanjung,0.56,3.12,6,57,Intermediet,Tinggi,Maitreyi College Delhi,0.01863395447,0.07350835322,0.5294117647,0.5286954561
+159,Morus alba,Murbei Putih,0.61,4.25,7,61.2,Intermediet,Tinggi,Maitreyi College Delhi,0.02030067669,0.100477327,0.7254901961,0.576051415
+160,Murraya exotica,Kemuning,4.67,6,6.2,78,Intermediet,Tinggi,Lahartara India,0.1556385213,0.1422434368,0.568627451,0.7654752509
 161,Murraya koenigii,Daun Kari,0.61,2.88,6.2,70.5,Intermediet,Tinggi,Maitreyi College Delhi,0.02030067669,0.06778042959,0.568627451,0.6809110384
 162,Mussaenda pubescens,Nusa Indah,2.38,3.75,6.96,79.29,Intermediet,Rendah,Kebun Bibit Wonorejo Surabaya,0.07930264342,0.08854415274,0.7176470588,0.7800202954
-163,Nerium oleander,Bunga mentega,3.145,34.11,6.7,58.48,Intermediet,Tinggi,Hamidia Road Bhopal,0.1048034934,0.8131264916,0.6666666667,0.545382794
-164,Ocimum basilicum L.,Selasih,5.2,6.5,6,76,Intermediet,Tinggi,Lahartara India,0.1733057769,0.154176611,0.5294117647,0.7429247942
-165,Ocimum sanctum L.,Selasih Hitam,3.43,5.64,6.2,81,Intermediet,Tinggi,Lahartara India,0.1143038101,0.1336515513,0.568627451,0.7993009358
+163,Nerium oleander,Bunga Mentega,3.145,34.11,6.7,58.48,Intermediet,Tinggi,Hamidia Road Bhopal,0.1048034934,0.8131264916,0.6666666667,0.545382794
+164,Ocimum basilicum,Selasih,5.2,6.5,6,76,Intermediet,Tinggi,Lahartara India,0.1733057769,0.154176611,0.5294117647,0.7429247942
+165,Ocimum sanctum,Selasih Hitam,3.43,5.64,6.2,81,Intermediet,Tinggi,Lahartara India,0.1143038101,0.1336515513,0.568627451,0.7993009358
 166,Pinus roxburghii,Chir Pine,0.6,2.34,3.4,59.3,Intermediet,Tinggi,Maitreyi College Delhi,0.01996733224,0.05489260143,0.01960784314,0.5546284812
 167,Prosopis juliflora,Mesquite,0.51,2.35,4.8,60.9,Intermediet,Tinggi,Maitreyi College Delhi,0.01696723224,0.05513126492,0.2941176471,0.5726688465
-168,Psidium guajava,Guava,0.61,2.52,5.8,66.2,Intermediet,Tinggi,Maitreyi College Delhi,0.02030067669,0.05918854415,0.4901960784,0.6324275567
-169,Psidium guajava L.,Jambu Biji,7.78,7.13,6.3,73,Intermediet,Tinggi,Lahartara India,0.2593086436,0.1692124105,0.5882352941,0.7090991093
+168,Psidium guajava,Jambu Biji,0.61,2.52,5.8,66.2,Intermediet,Tinggi,Maitreyi College Delhi,0.02030067669,0.05918854415,0.4901960784,0.6324275567
+169,Psidium guajava,Jambu Biji,7.78,7.13,6.3,73,Intermediet,Tinggi,Lahartara India,0.2593086436,0.1692124105,0.5882352941,0.7090991093
 170,Pterocarpus indicus,Angsana,4.87,10.37,6.19,74.14,Intermediet,Rendah,Kebun Bibit Wonorejo Surabaya,0.1623054102,0.2465393795,0.5666666667,0.7219528695
-171,Rosa indica L.,Mawar,4.75,4.5,5.5,74,Intermediet,Tinggi,Lahartara India,0.1583052768,0.1064439141,0.431372549,0.7203743376
+171,Rosa indica,Mawar,4.75,4.5,5.5,74,Intermediet,Tinggi,Lahartara India,0.1583052768,0.1064439141,0.431372549,0.7203743376
 172,Roystonea regia,Cuban Royal Palm,0.4,3.4,6.2,59.8,Intermediet,Tinggi,Maitreyi College Delhi,0.01330044335,0.08019093079,0.568627451,0.5602660954
-173,Sapindus mukorossi Gaertn.,Lerak,8.56,6,7.3,78,Intermediet,Tinggi,Lahartara India,0.2853095103,0.1422434368,0.7843137255,0.7654752509
+173,Sapindus mukorossi,Lerak,8.56,6,7.3,78,Intermediet,Tinggi,Lahartara India,0.2853095103,0.1422434368,0.7843137255,0.7654752509
 174,Senna pallida,Pale Senna,0.61,3.25,6.3,54.6,Intermediet,Tinggi,Maitreyi College Delhi,0.02030067669,0.07661097852,0.5882352941,0.5016349081
 175,Syzygium myrtifolium,Pucuk Merah,0.00146,0.823,5.34,76.62,Intermediet,Tinggi,Kawasan Industri Pulogadung,0.00001533384446,0.01868735084,0.4,0.7499154358
-176,Tectona grandis,Teak,0.61,2.19,7.1,54,Intermediet,Tinggi,Maitreyi College Delhi,0.02030067669,0.05131264916,0.7450980392,0.4948697711
+176,Tectona grandis,Jati,0.61,2.19,7.1,54,Intermediet,Tinggi,Maitreyi College Delhi,0.02030067669,0.05131264916,0.7450980392,0.4948697711
 177,Washingtonia robusta,Mexican Fan Palm,0.63,2.34,5.9,71.1,Intermediet,Tinggi,Maitreyi College Delhi,0.02096736558,0.05489260143,0.5098039216,0.6876761754
-178,Acacia auriculiformis (Nigeria),Akasia Daun Kecil,1.87,0.466,7.01,92.8,Sensitif,Tinggi,Nigeria Industri Gas dan Pasar Flora,0.06230207674,0.01016706444,0.7274509804,0.9323486301
-179,Aegle marmelos,Bael Fruit,0.55,2.74,5.8,14.8,Sensitif,Tinggi,Maitreyi College Delhi,0.01830061002,0.06443914081,0.4901960784,0.05288082084
-180,Aegle marmelos Correa.,Maja Batu,1.92,3.28,6,74,Sensitif,Tinggi,Lahartara India,0.06396879896,0.07732696897,0.5294117647,0.7203743376
+178,Acacia auriculiformis,Akasia Daun Kecil,1.87,0.466,7.01,92.8,Sensitif,Tinggi,Nigeria Industri Gas dan Pasar Flora,0.06230207674,0.01016706444,0.7274509804,0.9323486301
+179,Aegle marmelos,Maja,0.55,2.74,5.8,14.8,Sensitif,Tinggi,Maitreyi College Delhi,0.01830061002,0.06443914081,0.4901960784,0.05288082084
+180,Aegle marmelos,Maja,1.92,3.28,6,74,Sensitif,Tinggi,Lahartara India,0.06396879896,0.07732696897,0.5294117647,0.7203743376
 181,Agathis damara,Damar,4,2.12,4.26,61.9,Sensitif,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.04964200477,0.1882352941,0.5839440749
 182,Albizia lebbeck,Tarisi,0.6,2.41,6.3,39.8,Sensitif,Tinggi,Maitreyi College Delhi,0.01996733224,0.05656324582,0.5882352941,0.3347615289
 183,Alea rosea,Hollyhock,1.82,17.2,6.29,11.12,Sensitif,Tinggi,Lahore Pakistan,0.06063535451,0.4095465394,0.5862745098,0.01138798061
-184,Alstonia scholaris,Pule,2.27,3.14,5.55,70.3,Sensitif,Tinggi,Taman Pelangi Surabaya,0.07563585453,0.07398568019,0.4411764706,0.6786559928
-185,Alstonia scholaris R. Br.,Pulai,2.49,4,6.3,79,Sensitif,Tinggi,Lahartara India,0.08296943231,0.09451073986,0.5882352941,0.7767504792
-186,Annona squamosa L.,Srikaya,3.75,4,5.6,71,Sensitif,Tinggi,Lahartara India,0.1249708324,0.09451073986,0.4509803922,0.6865486526
-187,Anthocephalus cadamba Miq.,Jabon,3.4,8.34,5.2,85,Sensitif,Tinggi,Lahartara India,0.1133037768,0.1980906921,0.3725490196,0.8444018491
+184,Alstonia scholaris,Pulai,2.27,3.14,5.55,70.3,Sensitif,Tinggi,Taman Pelangi Surabaya,0.07563585453,0.07398568019,0.4411764706,0.6786559928
+185,Alstonia scholaris,Pulai,2.49,4,6.3,79,Sensitif,Tinggi,Lahartara India,0.08296943231,0.09451073986,0.5882352941,0.7767504792
+186,Annona squamosa,Srikaya,3.75,4,5.6,71,Sensitif,Tinggi,Lahartara India,0.1249708324,0.09451073986,0.4509803922,0.6865486526
+187,Anthocephalus cadamba,Jabon,3.4,8.34,5.2,85,Sensitif,Tinggi,Lahartara India,0.1133037768,0.1980906921,0.3725490196,0.8444018491
 188,Araucaria heterophylla,Cemara norfolk,0.583,0.435,6.71,98.1,Sensitif,Tinggi,Nigeria Industri Gas dan Pasar Flora,0.01940064669,0.009427207637,0.668627451,0.9921073402
-189,Artocarpus heterophylla Lam.,Nangka,3.56,6.6,6.3,48,Sensitif,Tinggi,Lahartara India,0.1186372879,0.1565632458,0.5882352941,0.4272184012
+189,Artocarpus heterophylla,Nangka,3.56,6.6,6.3,48,Sensitif,Tinggi,Lahartara India,0.1186372879,0.1565632458,0.5882352941,0.4272184012
 190,Barringtonia asiatica,Keben,2.38,1.65,5.09,83.37,Sensitif,Rendah,Kebun Bibit Wonorejo Surabaya,0.07930264342,0.038424821,0.3509803922,0.826023227
 191,Barringtonia asiatica,Keben,1.3,3.01,5.68,75.43,Sensitif,Tinggi,Taman Pelangi Surabaya,0.04330144338,0.07088305489,0.4666666667,0.7364979141
 192,Bauhinia purpurea,Bunga Kupu-kupu,3.99,3.91,6.41,77.18,Sensitif,Tinggi,Lingkar Luar Kebun Raya Bogor,0.132971099,0.0923627685,0.6098039216,0.7562295636
 193,Bougainvillea sp.,Bugenvil,2.39,4.57,6,74,Sensitif,Tinggi,Surabaya Jl Ahmad Yani Darmo MERR,0.07963598787,0.1081145585,0.5294117647,0.7203743376
-194,Canarium comunne,Kenari,3.99,2.8,5.6,80.56,Sensitif,Tinggi,Lingkar Luar Kebun Raya Bogor,0.132971099,0.06587112172,0.4509803922,0.7943398354
+194,Canarium commune,Kenari,3.99,2.8,5.6,80.56,Sensitif,Tinggi,Lingkar Luar Kebun Raya Bogor,0.132971099,0.06587112172,0.4509803922,0.7943398354
 195,Canna indica,Kana,1.3,4.02,6.1,84,Sensitif,Tinggi,Surabaya Jl Ahmad Yani Darmo MERR,0.04330144338,0.09498806683,0.5490196078,0.8331266208
-196,Carissa carandas,Karanda,0.52,2.38,5.6,40.2,Sensitif,Tinggi,Maitreyi College Delhi,0.01730057669,0.05584725537,0.4509803922,0.3392716203
-197,Carissa carandus L.,Karandas,0.68,3.5,5.5,35,Sensitif,Tinggi,Lahartara India,0.0226340878,0.08257756563,0.431372549,0.280640433
+196,Carissa carandas,Buah Samarinda,0.52,2.38,5.6,40.2,Sensitif,Tinggi,Maitreyi College Delhi,0.01730057669,0.05584725537,0.4509803922,0.3392716203
+197,Carissa carandas,Buah Samarinda,0.68,3.5,5.5,35,Sensitif,Tinggi,Lahartara India,0.0226340878,0.08257756563,0.431372549,0.280640433
 198,Chamaedorea sp.,Parlor Palm,0.6,2.65,6.7,47.3,Sensitif,Tinggi,Maitreyi College Delhi,0.01996733224,0.06229116945,0.6666666667,0.4193257413
-199,Chrozophora rottleri A. Juss.,Rumput Krokot,0.31,6.48,5.8,40,Sensitif,Tinggi,Lahartara India,0.01030034334,0.153699284,0.4901960784,0.3370165746
+199,Chrozophora rottleri,Rumput Krokot,0.31,6.48,5.8,40,Sensitif,Tinggi,Lahartara India,0.01030034334,0.153699284,0.4901960784,0.3370165746
 200,Chrysophyllum albidum,Apel Bintang Afrika,2.23,0.514,6.1,89.6,Sensitif,Tinggi,Nigeria Industri Gas dan Pasar Flora,0.07430247675,0.01131264916,0.5490196078,0.8962678994
 201,Codiaeum variegatum,Puring,2.93,4.75,6,77.6,Sensitif,Tinggi,Surabaya Jl Ahmad Yani Darmo MERR,0.09763658789,0.1124105012,0.5294117647,0.7609651595
 202,Cordyline terminalis,Hanjuang,2,3.86,5.8,72.3,Sensitif,Tinggi,Surabaya Jl Ahmad Yani Darmo MERR,0.06663555452,0.09116945107,0.4901960784,0.7012064494
 203,Crinum asiaticum,Bakung,2.71,1.47,5.22,19.09,Sensitif,Tinggi,Taman Pelangi Surabaya,0.0903030101,0.03412887828,0.3764705882,0.1012515503
 204,Crinum asiaticum,Bakung,1.3,0.33,6.06,89.65,Sensitif,Rendah,Kebun Bibit Wonorejo Surabaya,0.04330144338,0.00692124105,0.5411764706,0.8968316608
 205,Cupressus papuana,Cemara Papua,4,1.8,5.16,69.84,Sensitif,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.04200477327,0.3647058824,0.6734693878
-206,Dalbergia sissoo Roxb.,Sonokeling,1,6,6.7,40,Sensitif,Tinggi,Lahartara India,0.03330111004,0.1422434368,0.6666666667,0.3370165746
+206,Dalbergia sissoo,Sonokeling,1,6,6.7,40,Sensitif,Tinggi,Lahartara India,0.03330111004,0.1422434368,0.6666666667,0.3370165746
 207,Dracaena marginata,Drasena Tricolor,1.95,8.14,5.54,43.81,Sensitif,Tinggi,Taman Pelangi Surabaya,0.06496883229,0.1933174224,0.4392156863,0.3799751945
 208,Dracaena marginata,Drasena Tricolor,4.22,0.04,5.52,82.44,Sensitif,Rendah,Kebun Bibit Wonorejo Surabaya,0.1406380213,0,0.4352941176,0.8155372646
 209,Dracaena sp.,Dracaena,0.6,4.51,6.1,45,Sensitif,Tinggi,Maitreyi College Delhi,0.01996733224,0.1066825776,0.5490196078,0.3933927162
 210,Elaeis guineensis,Kelapa sawit,1.06,0.614,7.32,70.6,Sensitif,Tinggi,Nigeria Industri Gas dan Pasar Flora,0.03530117671,0.01369928401,0.7882352941,0.6820385613
-211,Eucalyptus citriodora Hook.,Kayu Putih,4.49,4.25,5,80,Sensitif,Tinggi,Lahartara India,0.1496383213,0.100477327,0.3333333333,0.7880257075
+211,Eucalyptus citriodora,Kayu Putih,4.49,4.25,5,80,Sensitif,Tinggi,Lahartara India,0.1496383213,0.100477327,0.3333333333,0.7880257075
 212,Eucalyptus sp.,Eucalyptus,0.59,1.97,6.8,19.7,Sensitif,Tinggi,Maitreyi College Delhi,0.0196339878,0.04606205251,0.6862745098,0.1081294396
-213,Eugenia jambolana Lamk.,Jamblang,2.91,6.07,4.6,72,Sensitif,Tinggi,Lahartara India,0.096969899,0.1439140811,0.2549019608,0.6978238809
-214,Fernando adenophyllum (Syn. Haplophragma adenophyllum),Kanak Champa,0.6,2.46,6.8,46.1,Sensitif,Tinggi,Maitreyi College Delhi,0.01996733224,0.05775656325,0.6862745098,0.4057954674
-215,Feronia elephantum Correa.,Maja,1.52,2.5,5.9,81,Sensitif,Tinggi,Lahartara India,0.05063502117,0.05871121718,0.5098039216,0.7993009358
-216,Ficus bengalensis,Beringin India,0.2,0.48,7.44,61.45,Sensitif,Rendah,Aizawl India,0.006633554452,0.01050119332,0.8117647059,0.5788702221
+213,Eugenia jambolana,Jamblang,2.91,6.07,4.6,72,Sensitif,Tinggi,Lahartara India,0.096969899,0.1439140811,0.2549019608,0.6978238809
+214,Fernando adenophyllum,Kanak Champa,0.6,2.46,6.8,46.1,Sensitif,Tinggi,Maitreyi College Delhi,0.01996733224,0.05775656325,0.6862745098,0.4057954674
+215,Feronia elephantum,Kawista,1.52,2.5,5.9,81,Sensitif,Tinggi,Lahartara India,0.05063502117,0.05871121718,0.5098039216,0.7993009358
+216,Ficus benghalensis,Beringin India,0.2,0.48,7.44,61.45,Sensitif,Rendah,Aizawl India,0.006633554452,0.01050119332,0.8117647059,0.5788702221
 217,Ficus benjamina,Beringin,3.99,2.02,7.4,64.32,Sensitif,Tinggi,Lingkar Luar Kebun Raya Bogor,0.132971099,0.04725536993,0.8039215686,0.6112301274
 218,Ficus religiosa,Pohon Bodhi,1.95,37,5.14,10.11,Sensitif,Tinggi,Lahore Pakistan,0.06496883229,0.8821002387,0.3607843137,0
 219,Filicium decipiens,Kerai Payung,0.02,0.092,6.14,50.71,Sensitif,Tinggi,Kawasan Industri Petrokimia Palembang,0.0006333544451,0.001241050119,0.5568627451,0.4577742699
-220,Grewia tiliaefolia Vahl.,Grewia,2.5,2.25,6.7,81,Sensitif,Tinggi,Lahartara India,0.08330277676,0.05274463007,0.6666666667,0.7993009358
+220,Grewia tiliaefolia,Grewia,2.5,2.25,6.7,81,Sensitif,Tinggi,Lahartara India,0.08330277676,0.05274463007,0.6666666667,0.7993009358
 221,Helianthus annuus,Bunga Matahari,2.41,16.43,6.34,17.31,Sensitif,Tinggi,Lahore Pakistan,0.08030267676,0.3911694511,0.5960784314,0.08118164393
 222,Heliconia psittacorum,Pisang Hias,1.84,9.22,6.52,76.64,Sensitif,Rendah,Kebun Bibit Wonorejo Surabaya,0.0613020434,0.2190930788,0.631372549,0.7501409404
 223,Heliconia psittacorum,Pisang Hias,1.95,10.43,5.47,29.76,Sensitif,Tinggi,Taman Pelangi Surabaya,0.06496883229,0.2479713604,0.4254901961,0.2215582366
@@ -230,37 +230,37 @@ No,Nama Latin,Nama Umum,Asam Askorbat (mg/g),Total Klorofil,Kadar Ph,Kadar Air,L
 229,Jatropha pandurifolia,Batavia,2.32,4.19,6,71,Sensitif,Tinggi,Surabaya Jl Ahmad Yani Darmo MERR,0.07730257675,0.09904534606,0.5294117647,0.6865486526
 230,Lagerstroemia speciosa,Bungur,1.3,3.96,4.08,43.89,Sensitif,Tinggi,Taman Pelangi Surabaya,0.04330144338,0.09355608592,0.1529411765,0.3808772128
 231,Lagerstroemia speciosa,Bungur,1.88,4.89,3.93,60.43,Sensitif,Rendah,Kebun Bibit Wonorejo Surabaya,0.06263542118,0.11575179,0.1235294118,0.5673694892
-232,Lantana camara,Lantana,1.62,3.62,6.24,63.71,Sensitif,Tinggi,Taman Pelangi Surabaya,0.05396846562,0.08544152745,0.5764705882,0.6043522381
+232,Lantana camara,Tembelekan,1.62,3.62,6.24,63.71,Sensitif,Tinggi,Taman Pelangi Surabaya,0.05396846562,0.08544152745,0.5764705882,0.6043522381
 233,Lantana camara,Tembelekan,0.19,1.88,8.2,57.66,Sensitif,Rendah,Aizawl India,0.006300210007,0.04391408115,0.9607843137,0.5361371068
-234,Litchi chinensis Sonner.,Lengkeng,0.75,2.51,6.2,48,Sensitif,Tinggi,Lahartara India,0.02496749892,0.05894988067,0.568627451,0.4272184012
-235,Madhuca indica J.F. Gmet.,Madhuca,2.74,5.21,5.8,64,Sensitif,Tinggi,Lahartara India,0.09130304343,0.1233890215,0.4901960784,0.6076220543
-236,Magnifera indica,Mangga,3.99,2.5,5.86,65.2,Sensitif,Tinggi,Lingkar Luar Kebun Raya Bogor,0.132971099,0.05871121718,0.5019607843,0.6211523283
-237,Mangifera indica (Nigeria),Mangga,1.77,0.337,6.14,68.8,Sensitif,Tinggi,Nigeria Industri Gas dan Pasar Flora,0.05896863229,0.007088305489,0.5568627451,0.6617431503
-238,Mangifera indica L.,Mangga,3.78,4.28,5.4,87,Sensitif,Tinggi,Lahartara India,0.1259708657,0.1011933174,0.4117647059,0.8669523058
+234,Litchi chinensis,Lengkeng,0.75,2.51,6.2,48,Sensitif,Tinggi,Lahartara India,0.02496749892,0.05894988067,0.568627451,0.4272184012
+235,Madhuca indica,Madhuca,2.74,5.21,5.8,64,Sensitif,Tinggi,Lahartara India,0.09130304343,0.1233890215,0.4901960784,0.6076220543
+236,Mangifera indica,Mangga,3.99,2.5,5.86,65.2,Sensitif,Tinggi,Lingkar Luar Kebun Raya Bogor,0.132971099,0.05871121718,0.5019607843,0.6211523283
+237,Mangifera indica,Mangga,1.77,0.337,6.14,68.8,Sensitif,Tinggi,Nigeria Industri Gas dan Pasar Flora,0.05896863229,0.007088305489,0.5568627451,0.6617431503
+238,Mangifera indica,Mangga,3.78,4.28,5.4,87,Sensitif,Tinggi,Lahartara India,0.1259708657,0.1011933174,0.4117647059,0.8669523058
 239,Michelia champaca,Cempaka Wangi,4,3.69,6.12,76.82,Sensitif,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.08711217184,0.5529411765,0.7521704815
-240,Moringa oleifera Lam.,Kelor,2.5,6.6,6.2,87,Sensitif,Tinggi,Lahartara India,0.08330277676,0.1565632458,0.568627451,0.8669523058
-241,Morus alba L.,Murbei,6.42,3.45,5.4,60,Sensitif,Tinggi,Lahartara India,0.2139737991,0.08138424821,0.4117647059,0.5625211411
-242,Musa sapientum L.,Pisang,2.14,2.57,6.5,62,Sensitif,Tinggi,Lahartara India,0.07130237675,0.06038186158,0.6274509804,0.5850715977
+240,Moringa oleifera,Kelor,2.5,6.6,6.2,87,Sensitif,Tinggi,Lahartara India,0.08330277676,0.1565632458,0.568627451,0.8669523058
+241,Morus alba,Murbei Putih,6.42,3.45,5.4,60,Sensitif,Tinggi,Lahartara India,0.2139737991,0.08138424821,0.4117647059,0.5625211411
+242,Musa sapientum,Pisang,2.14,2.57,6.5,62,Sensitif,Tinggi,Lahartara India,0.07130237675,0.06038186158,0.6274509804,0.5850715977
 243,Mussaenda philippica,Nusa Indah,1,4.56,5.2,70.3,Sensitif,Tinggi,Surabaya Jl Ahmad Yani Darmo MERR,0.03330111004,0.107875895,0.3725490196,0.6786559928
 244,Mussaenda pubescens,Nusa Indah,2.6,4.33,6.6,51.43,Sensitif,Tinggi,Taman Pelangi Surabaya,0.08663622121,0.1023866348,0.6470588235,0.4658924343
-245,Nyctanthes arbor-tristis Forst.,Bunga Sepatu,2.74,6.52,6.9,40,Sensitif,Tinggi,Lahartara India,0.09130304343,0.1546539379,0.7058823529,0.3370165746
+245,Nyctanthes arbor-tristis,Srigading,2.74,6.52,6.9,40,Sensitif,Tinggi,Lahartara India,0.09130304343,0.1546539379,0.7058823529,0.3370165746
 246,Phoenix robelinii,Palem Kurma Kerdil,3.99,2.02,5.86,86.2,Sensitif,Tinggi,Lingkar Luar Kebun Raya Bogor,0.132971099,0.04725536993,0.5019607843,0.8579321231
-247,Phyllanthus emblica L.,Malaka,4.27,10,6,75,Sensitif,Tinggi,Lahartara India,0.1423047435,0.2377088305,0.5294117647,0.7316495659
+247,Phyllanthus emblica,Malaka,4.27,10,6,75,Sensitif,Tinggi,Lahartara India,0.1423047435,0.2377088305,0.5294117647,0.7316495659
 248,Plumeria rubra,Red Frangipani,0.62,2.55,5.7,14.7,Sensitif,Tinggi,Maitreyi College Delhi,0.02063402113,0.05990453461,0.4705882353,0.051753298
 249,Psidium guajava,Jambu Biji,0.28,1.85,6.31,57.68,Sensitif,Rendah,Aizawl India,0.00930031001,0.04319809069,0.5901960784,0.5363626113
 250,Pterocarpus indicus,Angsana,4,5.14,6.01,73.8,Sensitif,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.1217183771,0.531372549,0.7181192919
 251,Pterocarpus indicus,Angsana,1.95,3.11,5.63,29.16,Sensitif,Tinggi,Taman Pelangi Surabaya,0.06496883229,0.07326968974,0.4568627451,0.2147930996
-252,Pterocarpus indicus (Bukit Asam),Angsana,0.028,0.29,5.67,72.13,Sensitif,Tinggi,Bukit Asam Sumatera Selatan,0.000900030001,0.005966587112,0.4647058824,0.6992896606
+252,Pterocarpus indicus,Angsana,0.028,0.29,5.67,72.13,Sensitif,Tinggi,Bukit Asam Sumatera Selatan,0.000900030001,0.005966587112,0.4647058824,0.6992896606
 253,Punica granatum,Pomegranate,0.17,2.7,4.7,51.8,Sensitif,Tinggi,Maitreyi College Delhi,0.005633521117,0.06348448687,0.2745098039,0.4700642688
 254,Ruellia simplex,Ruelia,1.84,5.19,7.4,32.9,Sensitif,Tinggi,Taman Pelangi Surabaya,0.0613020434,0.1229116945,0.8039215686,0.2569624535
 255,Ruellia simplex,Ruelia,2.17,1.46,6.42,86.26,Sensitif,Rendah,Kebun Bibit Wonorejo Surabaya,0.07230241008,0.0338902148,0.6117647059,0.8586086368
 256,Sansevieria trifasciata,Lidah Mertua,1.52,4.29,5.3,87.3,Sensitif,Tinggi,Surabaya Jl Ahmad Yani Darmo MERR,0.05063502117,0.1014319809,0.3921568627,0.8703348743
 257,Schefflera grandiflora,Wali Songo,4,3.89,6.26,66.29,Sensitif,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.09188544153,0.5803921569,0.6334423272
-258,Senna siamea (Syn. Cassia arborea),Siamese Cassia,0.05,4.5,6,46.3,Sensitif,Tinggi,Maitreyi College Delhi,0.00163338778,0.1064439141,0.5294117647,0.408050513
+258,Senna siamea,Johar,0.05,4.5,6,46.3,Sensitif,Tinggi,Maitreyi College Delhi,0.00163338778,0.1064439141,0.5294117647,0.408050513
 259,Senna surattensis,Kasia Emas,2.38,2.86,5.59,50.24,Sensitif,Tinggi,Taman Pelangi Surabaya,0.07930264342,0.06730310263,0.4490196078,0.4524749126
 260,Syzygium malaccense,Jambu bol,0.541,0.452,3.55,45.8,Sensitif,Tinggi,Nigeria Industri Gas dan Pasar Flora,0.01800060002,0.009832935561,0.04901960784,0.4024128989
-261,Tamarindus indica L.,Asem,6,4.89,4,85,Sensitif,Tinggi,Lahartara India,0.1999733324,0.11575179,0.137254902,0.8444018491
-262,Tectona grandis L.,Jati,0.35,4.5,7.3,54,Sensitif,Tinggi,Lahartara India,0.01163372112,0.1064439141,0.7843137255,0.4948697711
+261,Tamarindus indica,Asem,6,4.89,4,85,Sensitif,Tinggi,Lahartara India,0.1999733324,0.11575179,0.137254902,0.8444018491
+262,Tectona grandis,Jati,0.35,4.5,7.3,54,Sensitif,Tinggi,Lahartara India,0.01163372112,0.1064439141,0.7843137255,0.4948697711
 263,Terminalia catappa,Ketapang,2.5,0.35,4.3,58.53,Sensitif,Sedang,Butuan City Filipina,0.08330277676,0.007398568019,0.1960784314,0.5459465554
 264,Terminalia mantaly,Ketapang Kencana,4,4.22,5,67.88,Sensitif,Tinggi,Lingkar Luar Kebun Raya Bogor,0.1333044435,0.09976133652,0.3333333333,0.6513699402
 265,Trachycarpus sp.,Windmill Palm,0.61,2.64,7.1,40.9,Sensitif,Tinggi,Maitreyi College Delhi,0.02030067669,0.06205250597,0.7450980392,0.3471642801

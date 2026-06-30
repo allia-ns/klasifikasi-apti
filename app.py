@@ -13,7 +13,7 @@ warnings.filterwarnings('ignore')
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="SPK Toleransi Pohon",
+    page_title="Klasifikasi Toleransi Pohon",
     page_icon="🌳",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -75,7 +75,7 @@ st.markdown("""
         box-shadow: 0 2px 12px rgba(0,0,0,0.06);
         margin-bottom: 20px;
     }
-    .section-card h3 { color: #2d5a27; margin-top: 0; border-bottom: 2px solid #e8f5e3; padding-bottom: 10px; }
+    .section-card h3 { color: #2d5a27; margin-top: 0; border-bottom: 2px solid #e8f5e3; padding-bottom: 10px; margin-bottom: 10px;}
 
     /* Prediction result */
     .pred-result {
@@ -276,7 +276,7 @@ LABEL_DESC = {
 
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 with st.sidebar:
-    st.markdown("## 🌳 SPK Toleransi Pohon")
+    st.markdown("## 🌳 Klasifikasi Toleransi Pohon")
     st.markdown("**Kelompok 4** · Decision Tree")
     st.markdown("---")
     page = st.radio("Navigasi", [
@@ -284,7 +284,7 @@ with st.sidebar:
         "🔍  Prediksi",
         "📊  Evaluasi Model",
         "🗂️  Dataset",
-        "🌲  Visualisasi Pohon"
+        "🌲  Visualisasi Tree"
     ])
     st.markdown("---")
     st.markdown("<small>ID3 (Entropy) vs CART (Gini Impurity)<br>266 sampel · 4 kelas · 5 fitur</small>", unsafe_allow_html=True)
@@ -366,10 +366,15 @@ if page == "🏠  Beranda":
 # PAGE: PREDIKSI
 # ══════════════════════════════════════════════════════════════════════════════
 elif page == "🔍  Prediksi":
-    st.markdown("""
+    total_train = len(Y_train)
+    total_test = len(Y_test)
+
+    st.markdown(f"""
     <div class="header-banner">
         <h1>🔍 Prediksi Toleransi Pohon</h1>
-        <p>Pilih spesies pohon dari data uji untuk melihat hasil prediksi model</p>
+        <p>
+            Dataset dibagi menjadi <strong>{total_train} data training</strong> dan <strong>{total_test} data testing</strong> (80:20).
+        </p>
     </div>
     """, unsafe_allow_html=True)
 
@@ -384,6 +389,10 @@ elif page == "🔍  Prediksi":
     for i, fn in enumerate(feature_names[:-1]):  # exclude Polusi_Angka
         test_df[fn] = X_test[:, i]
     test_df['Kategori Paparan Polusi'] = df.loc[idx_test, 'Kategori Paparan Polusi'].values
+
+    st.caption(
+        f"Pilih salah satu spesies dari data testing di bawah ini untuk melihat hasil prediksi model terhadap label aktual."
+    )
 
     col_sel, col_algo = st.columns([2, 1])
     with col_sel:
@@ -592,19 +601,23 @@ elif page == "🗂️  Dataset":
         filter_label  = st.multiselect("Filter Label", options=df['Label Toleransi'].unique(), default=list(df['Label Toleransi'].unique()))
         filter_polusi = st.multiselect("Filter Polusi", options=df['Kategori Paparan Polusi'].unique(), default=list(df['Kategori Paparan Polusi'].unique()))
         display_cols = ['Nama Umum', 'Nama Latin', 'Asam Askorbat (mg/g)', 'Total Klorofil', 'Kadar Ph', 'Kadar Air', 'Kategori Paparan Polusi', 'Label Toleransi']
-        filtered = df[df['Label Toleransi'].isin(filter_label) & df['Kategori Paparan Polusi'].isin(filter_polusi)][display_cols]
-        st.dataframe(filtered, use_container_width=True, height=320)
+        filtered = df[
+            df['Label Toleransi'].isin(filter_label) &
+            df['Kategori Paparan Polusi'].isin(filter_polusi)
+        ][display_cols].reset_index(drop=True)
+        filtered.insert(0, "No.", range(1, len(filtered) + 1))
+        st.dataframe(filtered, use_container_width=True, height=600, hide_index=True)
         st.caption(f"Menampilkan {len(filtered)} dari 266 data")
         st.markdown("</div>", unsafe_allow_html=True)
 
 # ══════════════════════════════════════════════════════════════════════════════
-# PAGE: VISUALISASI POHON
+# PAGE: VISUALISASI Tree
 # ══════════════════════════════════════════════════════════════════════════════
-elif page == "🌲  Visualisasi Pohon":
+elif page == "🌲  Visualisasi Tree":
     st.markdown("""
     <div class="header-banner">
-        <h1>🌲 Visualisasi Pohon Keputusan</h1>
-        <p>Struktur pohon ID3 dan CART dengan max_depth = 5</p>
+        <h1>🌲 Visualisasi Decision Tree</h1>
+        <p>Struktur tree ID3 dan CART dengan max_depth = 5</p>
     </div>
     """, unsafe_allow_html=True)
 
@@ -632,4 +645,4 @@ elif page == "🌲  Visualisasi Pohon":
     plt.close()
 
     sk_acc = accuracy_score(Y_test, sk_tree.predict(X_test)) * 100
-    st.info(f"ℹ️ Pohon ini dirender menggunakan sklearn untuk keperluan visualisasi. Model prediksi menggunakan implementasi manual. Akurasi sklearn {algo_vis}: **{sk_acc:.2f}%**")
+    st.info(f"ℹ️ Tree ini dirender menggunakan sklearn untuk keperluan visualisasi. Model prediksi menggunakan implementasi manual. Akurasi sklearn {algo_vis}: **{sk_acc:.2f}%**")
